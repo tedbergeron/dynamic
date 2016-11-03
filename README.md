@@ -1,2 +1,0 @@
-# dynamic
-Testing various JavaScript
