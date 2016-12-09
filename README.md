@@ -1,3 +1,3 @@
-= dynamic
+# dynamic
 
 NOTE: Testing various JavaScript
